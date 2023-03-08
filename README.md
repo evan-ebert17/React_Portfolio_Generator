@@ -1,7 +1,6 @@
 # React_Porfolio_Generator
 
 [Github](https://github.com/mwallis5110/React_Portfolio_Generator)  
-[Deployed React App](https://react-portfolio-generator-uta.herokuapp.com/)
 
 
 ## Screen Shots
